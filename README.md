@@ -1,2 +1,0 @@
-# movieSearcher
-Handy movie searcher 
